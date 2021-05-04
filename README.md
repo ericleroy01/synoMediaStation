@@ -1,4 +1,4 @@
-## Welcome to synoMediation Pages
+## Welcome to synoMediaStation Pages
 
 this application includes following libraries<br/><br/>
 TheMovieDbWrapper https://github.com/nCubed/TheMovieDbWrapper<br/>
